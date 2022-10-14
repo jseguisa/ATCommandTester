@@ -1,1 +1,0 @@
-java -Djava.library.path=./runtime/windows/x64 -jar ATCommandTester.jar

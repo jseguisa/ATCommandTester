@@ -1,3 +1,5 @@
+package com.project.atcommandtester;
+
 public class Utilities {
 	private static char[] intToHexBuffer;
 

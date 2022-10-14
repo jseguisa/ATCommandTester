@@ -1,8 +1,4 @@
-import gnu.io.CommPort;
-import gnu.io.CommPortIdentifier;
-import gnu.io.SerialPort;
-import gnu.io.SerialPortEvent;
-import gnu.io.SerialPortEventListener;
+package com.project.atcommandtester;
 
 import java.awt.Color;
 import java.io.IOException;
