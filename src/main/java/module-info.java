@@ -1,6 +1,7 @@
 module atcommandtester {
     requires java.se;
-    requires java.desktop;
+    requires transitive java.desktop;
+    requires transitive rxtx;
 
     exports com.project.atcommandtester;
 }
